@@ -1,0 +1,50 @@
+import os
+os.system('cls')
+from numpy import *
+import math
+import scipy.io as spio
+import numpy as np
+import time
+import cmath as cm
+import scipy.special as spl
+import matplotlib.pyplot as plt, seaborn as sb
+from scipy import integrate
+
+
+#Irradiance F(lam) is in W/m^2/nm  
+
+lam,F_lam=np.loadtxt('Solarcell_spectrum_data.txt',unpack=True, usecols=[0,1], skiprows=0)
+
+print('\n Total integrated power:',round(sum(F_lam)/1000,3),'W/cm^2')
+
+Energy=1240/lam         # E in eV and lam in nm
+
+Phi=F_lam/(Energy*1.6*1e-19)   # Photon flux per m^2 per sec
+
+E=float(input('\n Enter the bandgap of the semiconductor in (0.31,4.42) eV: '))
+
+lam_sc=1240/E  #this is in 'nm'
+
+index=abs((lam-lam_sc)).argmin() 
+
+#cummulative flux till the cutoff wavelength
+C_flux=0;
+for j in range(0,index+1):
+    C_flux=C_flux+Phi[j]
+
+Total_flux=(abs(C_flux)/10000)   # W/cm^2
+
+print('\n Cummulative flux     :',round(Total_flux*1e-17,3),r"x 10^17 photons/cm^2")
+
+#short circuit current I_sc when area 1cm^2 i.e. I=q*Area*Phi_t
+I_sc=Total_flux*1*(1.6*1e-19)
+
+print('\n Short circuit current:',round(I_sc*1000,2),'mA')
+
+I0=100e-12  #reverse saturation current
+
+V_oc=0.0259*log(1+I_sc/I0)
+
+print('\n Open circuit voltage :',round(V_oc,2),'V')
+
+print('\n Output power         :',round(V_oc*I_sc*1e3,3), 'mW')
