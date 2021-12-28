@@ -7,18 +7,22 @@ The lecture videos and homeworks are available at the links below.
 
 
 * * * * *
-#### Introduction
 <div id="intro" /> 
+* * * * *
+
+
+#### Introduction
+
 [Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WiIdfUWjXog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * * * * *
-
-
+<div id="week1" /> 
 * * * * *
 
 #### Week 1
-<div id="week1" /> 
+
 [Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
 - 1.1 Types of Semiconductors
 
@@ -63,24 +67,23 @@ The lecture videos and homeworks are available at the links below.
 
 
 * * * * *
-
+<div id="week2" /> 
 * * * * *
 
 #### Week 2
 
-<div id="week2" /> 
 [Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
 ##### Homework Assignment
 
 [Homework 2](Assignments/HW2_Solutions_July2021.pdf)
 
 * * * * *
-
+<div id="week3" /> 
 * * * * *
+
 
 #### Week 3
 
-<div id="week3" /> 
 [Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
 
 ##### Homework Assignment
@@ -89,35 +92,24 @@ The lecture videos and homeworks are available at the links below.
 [Homework 3](Assignments/HW3_Solutions_July2021.pdf)
 
 * * * * *
-
+<div id="week4" /> 
 * * * * *
 
-#### Week 3
-
-<div id="week3" /> 
-
-##### Homework Assignment
-
-[Homework 3](Assignments/HW3_Solutions_July2021.pdf)
-
-* * * * *
-
-* * * * *
 
 #### Week 4
 
-<div id="week4" /> 
 
 ##### Homework Assignment
 
 [Homework 4](Assignments/HW4_Solutions_July2021.pdf)
 
 * * * * *
+<div id="week5" /> 
 * * * * *
+
 
 #### Week 5
 
-<div id="week5" /> 
 
 ##### Homework Assignment
 
@@ -125,79 +117,77 @@ The lecture videos and homeworks are available at the links below.
 [Homework 5](Assignments/HW5_Solutions_July2021.pdf)
 
 * * * * *
+<div id="week6" /> 
 * * * * *
 
 #### Week 6
 
-<div id="week6" /> 
 
 ##### Homework Assignment
 
 [Homework 6](Assignments/HW6_Solutions_July2021.pdf)
 
 * * * * *
+<div id="week7" /> 
 * * * * *
 
 #### Week 7
 
-<div id="week7" /> 
 
 ##### Homework Assignment
 
 [Homework 7](Assignments/HW7_Solutions_July2021.pdf)
 
 * * * * *
-
+<div id="week8" /> 
 * * * * *
 
 #### Week 8
 
-<div id="week8" /> 
 
 ##### Homework Assignment
 
 [Homework 8](Assignments/HW8_Solutions_July2021.pdf)
 
 * * * * *
+<div id="week9" /> 
 * * * * *
 
 #### Week 9
 
-<div id="week9" /> 
 
 ##### Homework Assignment
 
 [Homework 9](Assignments/HW9_Solutions_July2021.pdf)
 
 * * * * *
-
+<div id="week10" /> 
 * * * * *
 
 #### Week 10
 
-<div id="week10" /> 
 
 ##### Homework Assignment
 
 [Homework 9](Assignments/HW9_Solutions_July2021.pdf)
 
 * * * * *
+<div id="week11" /> 
 * * * * *
 
 #### Week 11
 
-<div id="week11" /> 
 
 ##### Homework Assignment
 
 [Homework 9](Assignments/HW9_Solutions_July2021.pdf)
 
 * * * * *
+<div id="week12" /> 
 * * * * *
 
 #### Week 12
 
-<div id="week12" /> 
 
 ##### Homework Assignment
 
