@@ -1,23 +1,15 @@
 
 The lecture videos and homeworks are available at the links below.
 
-- [Week 1](#week1) 
-- [Week 2](#week2)
-- [Week 3](#week3)
-- [Week 4](#week4)
-- [Week 5](#week5)
-- [Week 6](#week6)
-- [Week 7](#week7)
-- [Week 8](#week8)
-- [Week 9](#week9)
-- [Week 10](#week10)
-- [Week 11](#week11)
-- [Week 12](#week12)
+
+
 
 
 
 * * * * *
 #### Introduction
+<div id="intro" /> 
+[Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WiIdfUWjXog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * * * * *
@@ -27,7 +19,7 @@ The lecture videos and homeworks are available at the links below.
 
 #### Week 1
 <div id="week1" /> 
-
+[Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
 - 1.1 Types of Semiconductors
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MovJj2ldIH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -77,7 +69,7 @@ The lecture videos and homeworks are available at the links below.
 #### Week 2
 
 <div id="week2" /> 
-
+[Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
 ##### Homework Assignment
 
 [Homework 2](Assignments/HW2_Solutions_July2021.pdf)
@@ -89,6 +81,7 @@ The lecture videos and homeworks are available at the links below.
 #### Week 3
 
 <div id="week3" /> 
+[Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
 
 ##### Homework Assignment
 
