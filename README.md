@@ -154,3 +154,30 @@ The lecture videos and homeworks are available at the links below.
 
 * * * * *
 
+* * * * *
+
+#### Week 10
+
+<div id="week10" /> 
+
+[Homework 9](file: Assignments/HW9_Solutions_July2021.pdf)
+
+* * * * *
+* * * * *
+
+#### Week 11
+
+<div id="week11" /> 
+
+[Homework 9](file: Assignments/HW9_Solutions_July2021.pdf)
+
+* * * * *
+* * * * *
+
+#### Week 12
+
+<div id="week12" /> 
+
+[Homework 9](file: Assignments/HW9_Solutions_July2021.pdf)
+
+* * * * *
