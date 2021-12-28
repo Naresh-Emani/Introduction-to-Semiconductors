@@ -4,6 +4,16 @@ The lecture videos and homeworks are available at the links below.
 - [Week 1](#week1) 
 - [Week 2](#week2)
 - [Week 3](#week3)
+- [Week 4](#week4)
+- [Week 5](#week5)
+- [Week 6](#week6)
+- [Week 7](#week7)
+- [Week 8](#week8)
+- [Week 9](#week9)
+- [Week 10](#week10)
+- [Week 11](#week11)
+- [Week 12](#week12)
+
 
 
 * * * * *
@@ -68,6 +78,7 @@ The lecture videos and homeworks are available at the links below.
 <div id="week2" /> 
 
 [Homework 2](file: Assignments/HW2_Solutions_July2021.pdf)
+
 * * * * *
 
 #### Week 3
@@ -75,7 +86,71 @@ The lecture videos and homeworks are available at the links below.
 <div id="week3" /> 
 
 [Homework 3](file: Assignments/HW3_Solutions_July2021.pdf)
+
 * * * * *
 
+* * * * *
 
+#### Week 3
+
+<div id="week3" /> 
+
+[Homework 3](file: Assignments/HW3_Solutions_July2021.pdf)
+
+* * * * *
+* * * * *
+
+#### Week 4
+
+<div id="week4" /> 
+
+[Homework 4](file: Assignments/HW4_Solutions_July2021.pdf)
+
+* * * * *
+* * * * *
+
+#### Week 5
+
+<div id="week5" /> 
+
+[Homework 5](file: Assignments/HW5_Solutions_July2021.pdf)
+
+* * * * *
+* * * * *
+
+#### Week 6
+
+<div id="week6" /> 
+
+[Homework 6](file: Assignments/HW6_Solutions_July2021.pdf)
+
+* * * * *
+* * * * *
+
+#### Week 7
+
+<div id="week7" /> 
+
+[Homework 7](file: Assignments/HW7_Solutions_July2021.pdf)
+
+* * * * *
+
+* * * * *
+
+#### Week 8
+
+<div id="week8" /> 
+
+[Homework 8](file: Assignments/HW8_Solutions_July2021.pdf)
+
+* * * * *
+* * * * *
+
+#### Week 9
+
+<div id="week9" /> 
+
+[Homework 9](file: Assignments/HW9_Solutions_July2021.pdf)
+
+* * * * *
 
