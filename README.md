@@ -65,6 +65,7 @@ The lecture videos and homeworks are available at the links below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V0cwKgX5HFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+##### Homework Assignment
 
 [Homework 1](Assignments/HW1_Solutions_July2021.pdf)
 
@@ -77,15 +78,9 @@ The lecture videos and homeworks are available at the links below.
 
 <div id="week2" /> 
 
-[Homework 2](file: Assignments/HW2_Solutions_July2021.pdf)
+##### Homework Assignment
 
-* * * * *
-
-#### Week 3
-
-<div id="week3" /> 
-
-[Homework 3](file: Assignments/HW3_Solutions_July2021.pdf)
+[Homework 2](Assignments/HW2_Solutions_July2021.pdf)
 
 * * * * *
 
@@ -95,16 +90,34 @@ The lecture videos and homeworks are available at the links below.
 
 <div id="week3" /> 
 
-[Homework 3](file: Assignments/HW3_Solutions_July2021.pdf)
+##### Homework Assignment
+
+
+[Homework 3](Assignments/HW3_Solutions_July2021.pdf)
 
 * * * * *
+
+* * * * *
+
+#### Week 3
+
+<div id="week3" /> 
+
+##### Homework Assignment
+
+[Homework 3](Assignments/HW3_Solutions_July2021.pdf)
+
+* * * * *
+
 * * * * *
 
 #### Week 4
 
 <div id="week4" /> 
 
-[Homework 4](file: Assignments/HW4_Solutions_July2021.pdf)
+##### Homework Assignment
+
+[Homework 4](Assignments/HW4_Solutions_July2021.pdf)
 
 * * * * *
 * * * * *
@@ -113,7 +126,10 @@ The lecture videos and homeworks are available at the links below.
 
 <div id="week5" /> 
 
-[Homework 5](file: Assignments/HW5_Solutions_July2021.pdf)
+##### Homework Assignment
+
+
+[Homework 5](Assignments/HW5_Solutions_July2021.pdf)
 
 * * * * *
 * * * * *
@@ -122,7 +138,9 @@ The lecture videos and homeworks are available at the links below.
 
 <div id="week6" /> 
 
-[Homework 6](file: Assignments/HW6_Solutions_July2021.pdf)
+##### Homework Assignment
+
+[Homework 6](Assignments/HW6_Solutions_July2021.pdf)
 
 * * * * *
 * * * * *
@@ -131,7 +149,9 @@ The lecture videos and homeworks are available at the links below.
 
 <div id="week7" /> 
 
-[Homework 7](file: Assignments/HW7_Solutions_July2021.pdf)
+##### Homework Assignment
+
+[Homework 7](Assignments/HW7_Solutions_July2021.pdf)
 
 * * * * *
 
@@ -141,7 +161,9 @@ The lecture videos and homeworks are available at the links below.
 
 <div id="week8" /> 
 
-[Homework 8](file: Assignments/HW8_Solutions_July2021.pdf)
+##### Homework Assignment
+
+[Homework 8](Assignments/HW8_Solutions_July2021.pdf)
 
 * * * * *
 * * * * *
@@ -150,7 +172,9 @@ The lecture videos and homeworks are available at the links below.
 
 <div id="week9" /> 
 
-[Homework 9](file: Assignments/HW9_Solutions_July2021.pdf)
+##### Homework Assignment
+
+[Homework 9](Assignments/HW9_Solutions_July2021.pdf)
 
 * * * * *
 
@@ -160,7 +184,9 @@ The lecture videos and homeworks are available at the links below.
 
 <div id="week10" /> 
 
-[Homework 9](file: Assignments/HW9_Solutions_July2021.pdf)
+##### Homework Assignment
+
+[Homework 9](Assignments/HW9_Solutions_July2021.pdf)
 
 * * * * *
 * * * * *
@@ -169,7 +195,9 @@ The lecture videos and homeworks are available at the links below.
 
 <div id="week11" /> 
 
-[Homework 9](file: Assignments/HW9_Solutions_July2021.pdf)
+##### Homework Assignment
+
+[Homework 9](Assignments/HW9_Solutions_July2021.pdf)
 
 * * * * *
 * * * * *
@@ -178,6 +206,8 @@ The lecture videos and homeworks are available at the links below.
 
 <div id="week12" /> 
 
-[Homework 9](file: Assignments/HW9_Solutions_July2021.pdf)
+##### Homework Assignment
+
+[Homework 9](Assignments/HW9_Solutions_July2021.pdf)
 
 * * * * *
