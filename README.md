@@ -1,8 +1,10 @@
 
-The lecture videos and homeworks are listed below.
+The lecture videos and homeworks are available at the links below.
 
-- [Week 1](#week1)
+- [Week 1](#week1) 
 - [Week 2](#week2)
+- [Week 3](#week3)
+
 
 * * * * *
 #### Introduction
@@ -53,15 +55,27 @@ The lecture videos and homeworks are listed below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V0cwKgX5HFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+[Homework 1](file: Assignments/HW1_Solutions_July2021.pdf)
+
+
 * * * * *
 
 * * * * *
 
 #### Week 2
+
 <div id="week2" /> 
 
+[Homework 2](file: Assignments/HW2_Solutions_July2021.pdf)
 * * * * *
 
+#### Week 3
+
+<div id="week3" /> 
+
+[Homework 3](file: Assignments/HW3_Solutions_July2021.pdf)
+* * * * *
 
 
 
