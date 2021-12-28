@@ -66,7 +66,7 @@ The lecture videos and homeworks are available at the links below.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V0cwKgX5HFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-[Homework 1](file: Assignments/HW1_Solutions_July2021.pdf)
+[Homework 1](file: ./Assignments/HW1_Solutions_July2021.pdf)
 
 
 * * * * *
