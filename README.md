@@ -451,6 +451,33 @@ The lecture videos and homeworks are available at the links below.
 
 #### Week 10
 
+[Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
+
+
+- 10.1  MOSFET Scaling and technology nodes
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1FYyxf455XU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 10.2 Limits of scaling
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nQ7OMPSmMiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 10.3 Current characteristics of a short channel MOSFET
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uLDLnu2clVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 10.4  Threshold voltage characteristics of short channel MOSFET
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UVBkO0GndbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 10.5 MOSFETs in the 21st century
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CQRmUSFcR9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ##### Homework Assignment
 
@@ -462,6 +489,37 @@ The lecture videos and homeworks are available at the links below.
 
 #### Week 11
 
+[Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
+
+
+- 11.1  Optical absorption and bandgap
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gox0DYc9fWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 11.2 Introduction to solar cells
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tSD8lgdicNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 11.3  Efficiency of a solar cell
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0xIl3OnKFOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 11.4  Types of photodetectors
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ydFTDeg23I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 11.5 PIN and avalanche Photodectectors
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ddh2bSQNLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 11.6 Photodetector metrics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yCFyO80ZV7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ##### Homework Assignment
 
@@ -472,6 +530,32 @@ The lecture videos and homeworks are available at the links below.
 * * * * *
 
 #### Week 12
+
+[Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
+
+
+- 12.1  Radiative absoption and emission processes
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dnl-Acv82VU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 12.2 Materials for optoelectronic devices
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CiushXpaRg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 12.3  Operation of a light emitting diode (LED)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tlnCkr6B6ZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 12.4  LED emission spectrum
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8uG7F6YpjUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 12.5 Stimulated emission and lasing
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqXYDfy95lE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ##### Homework Assignment
