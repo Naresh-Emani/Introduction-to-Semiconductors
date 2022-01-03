@@ -188,6 +188,38 @@ The lecture videos and homeworks are available at the links below.
 
 
 #### Week 4
+[Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
+
+
+- 4.1 PN Junctions - An introducton
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0SnfR13p6Mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 4.2 PN Junction electrostatics
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HZJyjQWLIeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 4.3 Energy band diagram of PN junction
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rsFMSyoNKZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 4.4 Depletion width and peak electric field
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N2mJ4cTOX4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 4.5 PN junction electrostatics - examples
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dySuBYZ9nfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+- 4.6 Demo of PN Junction Lab on Nanohub
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VkKw1PMMhiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ##### Homework Assignment
