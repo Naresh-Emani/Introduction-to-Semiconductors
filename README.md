@@ -233,6 +233,41 @@ The lecture videos and homeworks are available at the links below.
 
 #### Week 5
 
+[Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
+
+
+- 5.1 Forward and reverse biased PN junctions
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qDoUGNOMf3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 5.2 Minority carrier injection in PN junctions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t5vtLWxmTow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 5.3 Current in forward biased PN junction 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UbY9PSbe6-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 5.4 Current in reverse biased PN junction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QdTRWXGQWv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 5.5 Depletion capacitance in PN junction
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gJL6d9XnH_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+- 5.6  Non-idealities in PN junction diode
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B5Pf_eq4dzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 5.7  Nanohub Demo - PN Junction with applied bias
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kPn-aYh5HXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ##### Homework Assignment
 
@@ -244,6 +279,43 @@ The lecture videos and homeworks are available at the links below.
 * * * * *
 
 #### Week 6
+
+[Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
+
+
+- 6.1 Schottky barrier in metal-semiconductor junction
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_XU7bkRZp4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 6.2 Current flow across a Schottky barrier
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tfi9nLUD3wY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 6.3 Ohmic vs rectifying contacts
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/49G930C0yeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 6.4 An Ideal MOS Capacitor
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qklZCwvnrI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 6.5 Operating regimes of a MOSCAP
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIcEIyeJLts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+- 6.6 Simplified band diagrams of accumulation and depletion in MOSCAP
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W1VlC8H-C5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 6.7  Inversion in a MOSCAP
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZfYGQYv3OlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ##### Homework Assignment
