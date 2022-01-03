@@ -371,6 +371,33 @@ The lecture videos and homeworks are available at the links below.
 
 #### Week 8
 
+[Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
+
+
+- 8.1  Non-ideal MOS Capacitor
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xwvkD-Vrok8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 8.2 MOSCAP Capacitance-Voltage (CV) Characteristics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/emrtz-sC9Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 8.3 Example problems with MOSCAPs
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JEquaU2CQz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 8.4 Impact of doping, oxide thickness and temperature on CV
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kQxh6vSKX48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 8.5 Nanohub Demo - MOS CV
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nFARagU9Dhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 ##### Homework Assignment
 
@@ -381,6 +408,37 @@ The lecture videos and homeworks are available at the links below.
 * * * * *
 
 #### Week 9
+
+[Introduction](#intro) [Week 1](#week1) [Week 2](#week2) [Week 3](#week3) [Week 4](#week4) [Week 5](#week5) [Week 6](#week6) [Week 7](#week7) [Week 8](#week8) [Week 9](#week9) [Week 10](#week10) [Week 11](#week11) [Week 12](#week12)
+
+
+- 9.1  Introduction to MOSFET
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M2x_lSYxvXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 9.2 Operating modes of a MOSFET
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A7V1ybdYfFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 9.3 IV Characteristics of a long channel MOSFET
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L97i6Ieek3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 9.4  Example problems with MOSFETs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S1mq5ZOy8ic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 9.5 MOSFET device metrics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xs6DypBvmFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 9.6 CMOS Technology
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TroBN_9WzsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ##### Homework Assignment
