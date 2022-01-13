@@ -2,3 +2,4 @@ remote_theme: pages-themes/cayman@v0.2.0
 title: Introduction to Semiconductor Devices
 description: [A repository of the MOOC course offered by Dr Naresh Kumar Emani on NPTEL platform between July-Oct 2021]
 show_downloads: false
+github: is_project_page: false
