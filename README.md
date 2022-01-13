@@ -9,16 +9,13 @@ The lecture videos and homeworks are available at the links below.
 
 | Week | Topics | Lecture Videos and Homework |
 | --- | :-- | :-- | 
-| 1 | Carrier properties – intrinsic carrier density, Fermi level of an intrinsic semiconductor, donor and acceptor impurities, Fermi level in extrinsic semiconductors, temperature dependence of carrier density, generation and recombination of carriers | [Lecture Videos](Week1.md)  [Homework 1](Assignments/HW1_Solutions_July2021.pdf) |
-| 2 | Thermal motion of carriers, carriers under electric field, mobility and drift current, diffusion of carriers, general expression for current in a semiconductor, energy bands under electric fields | [Lecture Videos](Week2.md)   [Homework 2](Assignments/HW2_Solutions_July2021.pdf) |
-| 3 | pn junction electrostatics, fixed and free charge, depletion approximation, electric field at the junction, built-in potential, step junction vs linearly graded junction, energy band diagram of a PN Junction and quasi-Fermi levels | [Lecture Videos](Week3.md)   [Homework 3](Assignments/HW3_Solutions_July2021.pdf) |
+| Week 1 | Carrier properties – intrinsic carrier density, Fermi level of an intrinsic semiconductor, donor and acceptor impurities, Fermi level in extrinsic semiconductors, temperature dependence of carrier density, generation and recombination of carriers | [Lecture Videos](Week1.md)  [Homework 1](Assignments/HW1_Solutions_July2021.pdf) |
+| Week 2 | Thermal motion of carriers, carriers under electric field, mobility and drift current, diffusion of carriers, general expression for current in a semiconductor, energy bands under electric fields | [Lecture Videos](Week2.md)   [Homework 2](Assignments/HW2_Solutions_July2021.pdf) |
+| Week 3 | pn junction electrostatics, fixed and free charge, depletion approximation, electric field at the junction, built-in potential, step junction vs linearly graded junction, energy band diagram of a PN Junction and quasi-Fermi levels | [Lecture Videos](Week3.md)   [Homework 3](Assignments/HW3_Solutions_July2021.pdf) |
 
 
 
 
-* * * * *
-<div id="week1" /> 
-* * * * *
 
 #### Week 1
 
