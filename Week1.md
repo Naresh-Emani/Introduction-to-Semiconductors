@@ -1,7 +1,6 @@
 
 The lecture videos for Week 1 are available at the links below.
 
-
 [Back to Home Page](https://github.com/Naresh-Emani/Introduction-to-Semiconductors)
 
 
