@@ -3,6 +3,7 @@ The lecture videos and homeworks are available at the links below.
 
 
 
+[Homework 2](Week1.md)
 
 
 
