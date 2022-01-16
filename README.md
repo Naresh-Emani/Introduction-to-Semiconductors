@@ -8,7 +8,7 @@
 The lecture videos and homeworks are available at the links below.
 
 | Week  | Topics | Lecture Videos and Homework |
-| --- | :-- | :-- | 
+| :-- | :-- | :-- | 
 | Week 1 | Semiconductors in daily life, semiconducting material properties, energy levels in atoms, energy band formation, bandgap and material classification, electrons and holes, effective mass  | [Lecture Videos](Week1.md)  [Homework 1](Assignments/HW1_Solutions_July2021.pdf) |
 | Week 2 | Carrier properties – intrinsic carrier density, Fermi level of an intrinsic semiconductor, donor and acceptor impurities, Fermi level in extrinsic semiconductors, temperature dependence of carrier density, generation and recombination of carriers | [Lecture Videos](Week2.md)   [Homework 2](Assignments/HW2_Solutions_July2021.pdf) |
 | Week 3 | Thermal motion of carriers, carriers under electric field, mobility and drift current, diffusion of carriers, general expression for current in a semiconductor, energy bands under electric fields | [Lecture Videos](Week3.md)   [Homework 3](Assignments/HW3_Solutions_July2021.pdf) |
