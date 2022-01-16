@@ -1,7 +1,7 @@
 
 The lecture videos for Week 11 are available at the links below.
 
-[Back to Home Page](https://github.com/Naresh-Emani/Introduction-to-Semiconductors)
+[Back to Home Page](https://naresh-emani.github.io/Introduction-to-Semiconductors/)
 
 
 - 11.1  Optical absorption and bandgap

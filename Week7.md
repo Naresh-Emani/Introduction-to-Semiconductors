@@ -1,7 +1,7 @@
 
 The lecture videos for Week 7 are available at the links below.
 
-[Back to Home Page](https://github.com/Naresh-Emani/Introduction-to-Semiconductors)
+[Back to Home Page](https://naresh-emani.github.io/Introduction-to-Semiconductors/)
 
 
 -
