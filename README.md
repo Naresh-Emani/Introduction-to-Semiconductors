@@ -1,11 +1,15 @@
 
 
-### Introductory Video
+### Online resources for the Introduction to Semiconductor Devices courses offered by [Dr. Naresh Emani](https://people.iith.ac.in/nke/) through NPTEL platform.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WiIdfUWjXog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+1. [Introductory video](https://www.youtube.com/embed/WiIdfUWjXog) for the course.
+2. [Youtube Lecture Playlist](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9yUzTnI4oxqgaKLsFxRvGA)
+3. [2023 Course Registration Link](https://onlinecourses.nptel.ac.in/noc23_ee82/preview)
+4. Previous runs
+    1. [2022 Course Registration Link](https://onlinecourses.nptel.ac.in/noc22_ee91/preview)
+    2. [2022 Course Registration Link](https://onlinecourses.nptel.ac.in/noc21_ee59/preview)
 
 
-The lecture videos and homeworks are available at this [Youtube Playlist](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9yUzTnI4oxqgaKLsFxRvGA)
 
 | Week  | Topics |  Homework |
 | :--  | :-- | :-- | 
